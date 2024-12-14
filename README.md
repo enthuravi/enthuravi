@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enthuravi
 - 👀 I’m interested in integrating programming and Science.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on education platform ehere we'll be uploading pages like on my profile.
+- 💞️ I’m looking to collaborate on education platform where we'll be uploading pages like on my profile.
 - 📫 How to reach me:ravi.pranjan00@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
